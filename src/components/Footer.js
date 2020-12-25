@@ -48,7 +48,7 @@ function Footer() {
           </div>
           <div className='footer-link-media-items'>
             <a
-            href='https://www.facebook.com/FrizerskiSalonPerfetto/'
+            href='https://www.instagram.com/perfetto_perfettoo/?igshid=a60l93mj88ic&fbclid=IwAR0cia5meeXGqoNOFYUs9CF23wbnUGeYFuAlkWdyH4gM0rMxDEaj78ksiRQ'
             className='media-icons'>
               <a>Instagram</a>
               <FaInstagram/>
