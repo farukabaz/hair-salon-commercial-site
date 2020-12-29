@@ -30,11 +30,11 @@ function Navbar() {
         <div className='navbar-container'>
           
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-          Perfetto
             <img 
             className='logo'
-            src='/images/frizerski-logo.jpg'
+            src='/images/logo.jpg'
             />
+            Perfetto
           </Link>
 
           <div className='menu-icon' onClick={handleClick}>

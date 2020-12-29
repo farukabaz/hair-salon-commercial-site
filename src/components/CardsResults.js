@@ -2,7 +2,7 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
-function CardsTwo() {
+function CardsResults() {
   return (
     <div className='cards'>
       <h1>... za najbolje rezultate</h1>
@@ -38,4 +38,4 @@ function CardsTwo() {
   );
 }
 
-export default CardsTwo;
+export default CardsResults;

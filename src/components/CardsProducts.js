@@ -2,7 +2,7 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
-function Cards() {
+function CardsProducts() {
   return (
     <div className='cards'>
       <h1>Koristimo samo najbolje proizvode ...</h1>
@@ -43,4 +43,4 @@ function Cards() {
   );
 }
 
-export default Cards;
+export default CardsProducts;
